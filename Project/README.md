@@ -31,3 +31,5 @@ The training function takes two parameters, a list of the values for the data po
 
 # Using the notebook
 Open the notebook and run it. With the current parameters, the training will take about 60 minutes to complete.
+
+A pickled file is provided with the best model in the report, and can be loaded for testing in the notebook without having to retrain the model.
